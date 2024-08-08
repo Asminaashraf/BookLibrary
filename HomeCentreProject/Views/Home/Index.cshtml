@@ -1,0 +1,64 @@
+﻿@model IEnumerable<BookCentreProject.Models.Book>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<setion >
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                
+                    <form method="get" asp-action="Index" asp-controller="Home" >
+                    <input  type="search" name="searchString" style="height:40px;width:300px" placeholder="Search" aria-label="Search">
+                    <button style="width:80px;height:40px" type="submit"><i class="bi bi-search"></i></button>
+                       
+                       
+                    </form>
+                
+
+            </div>
+
+        </div>
+
+    </div>
+  
+
+</setion>
+<section>
+    <div class="container">
+        <div class="row  ">
+          
+                @foreach (var book in Model)
+                {
+                <div class="col-lg-3 col-md-4 col-12">
+                    <div class="card mt-4 " >
+                        <div>
+                            <a asp-controller="Home" asp-action="DetailsHome" asp-route-id="@book.BookId" >
+                        <img src="~/images/@book.Photo" class="card-img-top" style="height:150px;width100px;">
+                        </a>
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">@book.Name<h4/>
+                            <h5 class="card-text">Author:@book.Author</h5>
+                            <h5 class="card-text">Price:@book.Price</h5>
+                            <a href="#" class="btn btn-primary">Add Cart</a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+
+
+                }
+
+            </div>
+
+        
+
+    </div>
+  
+
+
+</section>
+
+

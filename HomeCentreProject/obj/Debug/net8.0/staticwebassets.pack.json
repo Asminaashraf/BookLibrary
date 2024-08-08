@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookCentreProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookCentreProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\005b6e62-abb3-47f0-9951-909588f02628_Screenshot 2023-12-15 203158.png",
+      "PackagePath": "staticwebassets\\images\\005b6e62-abb3-47f0-9951-909588f02628_Screenshot 2023-12-15 203158.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\0f25befb-9112-4d0c-a659-f92dbd654612_halfGirlfrient.jpg",
+      "PackagePath": "staticwebassets\\images\\0f25befb-9112-4d0c-a659-f92dbd654612_halfGirlfrient.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\6128dabf-812a-425d-a961-6bd99472a807_Snapchat-1446343921.jpg",
+      "PackagePath": "staticwebassets\\images\\6128dabf-812a-425d-a961-6bd99472a807_Snapchat-1446343921.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\65b82793-4b4c-4344-a4d7-d01bb7b00125_haizan.jpg",
+      "PackagePath": "staticwebassets\\images\\65b82793-4b4c-4344-a4d7-d01bb7b00125_haizan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\805edaa5-c8b6-4758-a2af-f3ce90fc487a_ninte-ormakkuws.jpg",
+      "PackagePath": "staticwebassets\\images\\805edaa5-c8b6-4758-a2af-f3ce90fc487a_ninte-ormakkuws.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\9447d59c-bdf9-4782-89c7-923afd97bcf9_haizan.jpg",
+      "PackagePath": "staticwebassets\\images\\9447d59c-bdf9-4782-89c7-923afd97bcf9_haizan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\ec65f0fe-2eea-4e2b-b6c5-29644f507d27_IMG-20180627-WA0013.jpg",
+      "PackagePath": "staticwebassets\\images\\ec65f0fe-2eea-4e2b-b6c5-29644f507d27_IMG-20180627-WA0013.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\images\\fdfac9d3-26a1-4c08-a1dc-f3172bbc3226_haizan.jpg",
+      "PackagePath": "staticwebassets\\images\\fdfac9d3-26a1-4c08-a1dc-f3172bbc3226_haizan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Asp.net Project\\HomeCentreProject\\HomeCentreProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookCentreProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookCentreProject.props",
+      "PackagePath": "build\\BookCentreProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookCentreProject.props",
+      "PackagePath": "buildMultiTargeting\\BookCentreProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookCentreProject.props",
+      "PackagePath": "buildTransitive\\BookCentreProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

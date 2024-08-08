@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\HomeCentreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\repositorypattern\\implementation\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\repositorypattern\\implementation\\booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\repositorypattern\\interface\\ibooklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\repositorypattern\\interface\\ibooklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\viewmodel\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|c:\\users\\hp\\homecentreproject\\homecentreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B080919-1051-4073-B33E-50F71BD68B9C}|HomeCentreProject\\BookCentreProject.csproj|solutionrelative:homecentreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "HomeCentreProject\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAADwv7oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:11:38.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\ViewModel\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\ViewModel\\BookViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\ViewModel\\BookViewModel.cs",
+              "RelativeToolTip": "HomeCentreProject\\ViewModel\\BookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:07:14.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Models\\Book.cs",
+              "RelativeToolTip": "HomeCentreProject\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:06:31.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HomeCentreProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:32:26.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HomeCentreProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T04:36:31.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\RepositoryPattern\\Implementation\\BookLibrary.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\RepositoryPattern\\Implementation\\BookLibrary.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\RepositoryPattern\\Implementation\\BookLibrary.cs",
+              "RelativeToolTip": "HomeCentreProject\\RepositoryPattern\\Implementation\\BookLibrary.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:25:24.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\RepositoryPattern\\Interface\\IBookLibrary.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\RepositoryPattern\\Interface\\IBookLibrary.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\RepositoryPattern\\Interface\\IBookLibrary.cs",
+              "RelativeToolTip": "HomeCentreProject\\RepositoryPattern\\Interface\\IBookLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:23:17.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "HomeCentreProject\\Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:54:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HomeCentreProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\HomeCentreProject\\HomeCentreProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HomeCentreProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T05:50:46.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

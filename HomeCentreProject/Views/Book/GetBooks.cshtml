@@ -1,0 +1,74 @@
+﻿@model IEnumerable<BookCentreProject.Models.Book>
+@{
+    ViewBag.Title = "BookListAll";
+}
+
+
+<div class="container">
+    <div class="row">
+        @if(TempData["Error"]!= null)
+        {
+            <div class="alert alert-danger notification ">
+                @TempData["Error"]
+            </div>
+
+        }
+        @if (TempData["Success"] != null)
+        {
+            <div class="alert alert-success notification  ">
+                @TempData["Success"]
+            </div>
+
+        }
+        <div class="col-10 ">
+
+            <a asp-controller="Book" asp-action="AddBook" class="btn btn-dark text-white">Create New Book</a>
+            
+            <table class="table table-hover table-striped table-bordered mt-4">
+                <thead class="text-center bg-dark text-light">
+                    <tr>
+                        <th>BookId</th>
+                        <th>Name</th>
+                        <th>Author</th>
+                        <th>Language</th>
+                        <th>Price</th>
+                        <th>BookType</th>
+                        <th>Photo</th>
+                        <th>Action</th>
+                        
+                        
+                    </tr>
+
+                </thead>
+                <tbody>
+                    @foreach (var book in Model)
+                    {
+                        var imagePath = "~/images/" + book.Photo;
+
+                        <tr class="text-center">
+                            <td>@book.BookId</td>
+                            <td>@book.Name</td>
+                            <td>@book.Author</td>
+                            <td>@book.Language</td>
+                            <td>@book.Price</td>
+                            <td>@book.Type</td>
+                            <td><img src="@imagePath" height="100px;" width="100px;" asp-append-version="true" /></td>
+                            <td>
+
+                                <a asp-controller="Book" asp-action="Edit" asp-route-id="@book.BookId" class="btn btn-primary">Edit</a>
+                                <a asp-controller="Book" asp-action="Delete" asp-route-id="@book.BookId" onclick="return confirm('Are you sure,You want delete this?')" class="btn btn-danger">Delete</a>
+                                <a asp-controller="Book" asp-action="Details" asp-route-id="@book.BookId"  class="btn btn-info">Details</a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+
